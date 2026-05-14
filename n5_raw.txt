@@ -1,0 +1,204 @@
+だ / です (da / desu): to be
+それは非常に面白いコメントですね。
+That's a very interesting comment.
+sore wa hijou ni omoshiroi komento desu ne.
+だけ (dake): only, just
+私はただ臆測しただけです。
+I only guessed.
+watashi wa tada okusoku shita dake desu.
+だろう (darou): don’t you agree?, probably
+あなたはそれいじょう、お金はいらないだろう。
+You don't need more money than that.
+anata wa sore ijou, okane wa iranai darou.
+で (de) - 1: in, at, on
+ここでサッカーをしないでください。
+Please don't play soccer here.
+koko de sakkaa o shinaide kudasai.
+で (de) - 2: by, with
+震える指で、彼女は封筒を開けた。
+She opened the envelope with her trembling fingers.
+furueru yubi de, kanojo wa fuutou o aketa.
+でしょう (deshou): I think, probably
+宿題は後でできるでしょう。
+You can do your homework later, right?
+shukudai wa ato de dekiru deshou?
+が (ga) - 1: subject marker
+夏が過ぎ、冬がふたたびやって来た。
+The summer passed, and winter came again.
+natsu ga sugi, fuyu ga futatabi yatte kita.
+が (ga) - 2: but, however, still
+通路は広かったが真暗だった。
+The path was wide, but dark.
+tsuuro wa hirokatta ga makkura datta.
+がある (ga aru): to be, to exist (inanimate objects)
+言いたいことがありますか？
+Is there anything you want to say?
+iitai koto ga arimasu ka.
+がいる (gairu): to be, to exist (living objects)
+図書館に人がいっぱいいる。
+There are many people at the library.
+toshokan ni hito ga ippai iru.
+ほうがいい (hou ga ii) - 1: had better, should
+英会話をもっと練習したほうがいい。
+You should practice speaking English more.
+eikaiwa o motto renshuu shita hou ga ii.
+ほうがいい (hou ga ii) - 2: it’d be better to not
+約束を忘れないほうがいい。
+You'd better not forget your promise.
+yakusoku o wasurenai hou ga ii.
+いちばん (ichiban): the most, the best
+一番嫌いな男性のタイプは何ですか？
+What's the type of man you hate the most?
+ichiban kirai na dansei no taipu wa nan desu ka.
+か (ka) - 1: question particle
+あなたがだれなのか、どうやってここへ来たのか、誰にもわからない。
+Nobody had any idea who you were or how you got here.
+anata ga dare na no ka, dou yatte koko e kita no ka, dare ni mo wakaranai.
+か (ka) - 2: or
+あの男たちは、佐々木か私を探しているのだ。
+Those men are looking for Sasaki or for me.
+ano otokotachi wa, sasaki ka watashi o sagashite iru no da.
+から (kara) - 1: since, because
+財布を忘れたから、電車の切符を買えなかった。
+I forgot my wallet so I couldn’t buy the train ticket.
+saifu o wasureta kara, densha no kippu o kaenakatta.
+から (kara) - 2: from, since
+彼はやっと地獄から逃げ出した。
+He finally escaped from hell.
+kare wa yatto jigoku kara nigedashita.
+けど / けれども (kedo / keredomo): but, however, although
+千葉君は顔は汚いけど、心はとっても清いんです。
+Chiba might look ugly, but he has a pure heart.
+chibakun wa kao wa kitanai kedo, kokoro wa tottemo kiyoin desu.
+くらい / ぐらい (kurai / gurai) - 1: about, approximately, at the very least
+自分の服ぐらい自分で洗ってよ。
+Wash your own clothes.
+jibun no fuku gurai jibun de aratte yo.
+まだ (mada): still, not yet
+わたしはまだ結婚していません。
+I'm still single.
+watashi wa mada kekkon shite imasen.
+まで (made): until, till, as far as, to (an extent)
+この話に結着がつくまでお待ちになってください。
+Please at least wait until the story has a conclusion.
+kono hanashi wa kecchaku ga tsuku made omachi ni natte kudasai.
+まえに (mae ni): before, in front of
+食事の前に手を洗ってください。
+Wash your hands before eating.
+shokuji no mae ni te o aratte kudasai.
+ませんか (masen ka): let’s, won’t you
+私のパーティーに参加しませんか？
+Won't you join my party?
+watashi no paatii ni sanka shimasen ka.
+ましょう (mashou): let’s, shall we
+テストを始めましょうか？
+Shall we begin the test?
+tesuto o hajimemashou ka.
+も (mo): also, too, as well
+僕も昨日徹夜で勉強しました。
+I was also up all night studying.
+boku mo kinou tetsuya de benkyou shimashita.
+もう (mou): already, anymore
+もう我慢できない。
+I can't take it anymore.
+mou gaman dekinai.
+な (na): don’t do (command)
+銃を使うな！
+Don't use the gun!
+juu o tsukau na.
+ないでください (naide kudasai): please don’t
+宿題をするのを忘れないでください。
+shukudai o suru no o wasurenaide kudasai.
+Please don't forget to do your homework.
+なる (naru): to become
+彼女が美しくなりましたね。
+She has become so beautiful.
+kanojo ga utsukushiku narimashita ne.
+に (ni): in, at, on
+ここに名前を書いてください。
+Please write your name here.
+koko ni namae o kaite kudasai.
+に/へ (ni/e): to
+ベッドに戻りたい。
+I want to go back to bed.
+beddo ni modoritai.
+にいく (ni iku): to go in order to do something
+薪を集めに行こう!
+Let's go pick up firewood!
+maki o atsume ni ikou.
+にする (ni suru): to decide on
+田舎へは行かないことにしましょうよ。
+Let's not go to the countryside.
+inaka e wa ikanai koto ni shimashou yo.
+の (no) - 1: of (indicates possessive)
+予定の計画にはなんら変更はありません。
+There is no change in our original plans.
+yotei no keikaku ni wa nanra henkou wa arimasen.
+の (no) – 2: Verb nominalizer
+わたしたちが捕まるのも時間の問題だわ！
+It's only a matter of time before we're caught!
+watashitachi ga tsukamaru no mo jikan no mondai da wa.
+ので (node): because of, the reason is that
+少し仮眠を取りますので、状況が変化したら起こしてください。
+I'm going to take a nap for a while, so please wake me up if there is any change.
+sukoshi kamin o torimasu node, joukyou ga henka shitara okoshite kudasai.
+のがじょうず (no ga jouzu): to be good at
+教えるのが上手な人は、どんな人？
+What kind of people are good at teaching?
+oshieru no ga jouzu na hito wa, donna hito.
+のがへた (no ga heta): to be bad at
+お酒を飲むのが下手なのです。
+I'm not good at drinking.
+osake o nomu no ga heta na no desu.
+のがすき (no ga suki): to love doing something
+妻は不平を言うのが好き。
+My wife loves complaining.
+tsuma wa fuhei o iu no ga suki.
+すぎる (sugiru): too much
+この子達にギャンブルは早すぎる。
+It's too early for these kids to gamble.
+kono kodomo ni gyanburu wa hayasugiru.
+たい (tai): want to
+あなたの言うことを聞きたくない。
+I don't want to listen to what you say.
+anata no iu koto o kikitakunai.
+たことがある (ta koto ga aru): have done something before
+あの人は誰？何度も見たことがあるよ。
+Who's that person? I've seen him many times before.
+ano hito wa dare. nando mo mita koto ga aru yo.
+ている (te iru): to be doing something
+何を考えていますか？
+What are you thinking?
+nani o kangaete imasu ka.
+てください (te kudasai): please do
+ドアをしめてください。
+Please close the door.
+doa o shimete kudasai.
+てもいい (te mo ii): it’s okay to, can, may
+それじゃ、わたし、行ってもいいですか？
+Well then, May I go now?
+Sore ja, watashi, itte mo ii desuka.
+てから (te kara): after doing something, since
+このクラブを出てから兄は行方不明になったんだ！
+It was on leaving this club that my brother disappeared.
+kono kurabu o dete kara ani wa yukuefumei ni nattan da.
+てはいけない (te wa ikenai): may not, must not
+あの男には逆らってはいけないと思う。
+I think we should not oppose that man.
+ano otoko ni wa sakaratte wa ikenai to omou.
+と (to) - 1: and, with
+若い二人は目と目を見交わした。
+The two young persons exchanged looks.
+wakai futari wa me to me o mikawashita.
+つもり (tsumori): plan on doing something
+国へ帰ったら、会社をつくるつもりだ。
+When I return to my country, I plan to start a company.
+kuni e kaettara, kaisha o tsukuru tsumori da.
+や (ya): and
+私はずっと、レジャーや観光や旅行にとても関心がありました。
+I've always been really interested in leisure and tourism and travel.
+watashi wa zutto, rejaa ya kankou ya ryokou ni totemo kanshin ga arimashita.
+より~ほうが ~ (yori~ hou ga): more than
+女より男のほうが飽きやすいものだ。
+Men tire more easily than women.
+onna yori otoko no hou ga akiyasui mono da

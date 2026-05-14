@@ -1,0 +1,1712 @@
+[
+  {
+    "id": 1,
+    "jlpt_level": "N5",
+    "grammar_point": "だ / です (da / desu): to be",
+    "sentence": "それは非常に面白いコメントですね。"
+  },
+  {
+    "id": 2,
+    "jlpt_level": "N5",
+    "grammar_point": "だけ (dake): only, just",
+    "sentence": "私はただ臆測しただけです。"
+  },
+  {
+    "id": 3,
+    "jlpt_level": "N5",
+    "grammar_point": "だろう (darou): don’t you agree?, probably",
+    "sentence": "あなたはそれいじょう、お金はいらないだろう。"
+  },
+  {
+    "id": 4,
+    "jlpt_level": "N5",
+    "grammar_point": "で (de) - 1: in, at, on",
+    "sentence": "ここでサッカーをしないでください。"
+  },
+  {
+    "id": 5,
+    "jlpt_level": "N5",
+    "grammar_point": "で (de) - 2: by, with",
+    "sentence": "震える指で、彼女は封筒を開けた。"
+  },
+  {
+    "id": 6,
+    "jlpt_level": "N5",
+    "grammar_point": "でしょう (deshou): I think, probably",
+    "sentence": "宿題は後でできるでしょう。"
+  },
+  {
+    "id": 7,
+    "jlpt_level": "N5",
+    "grammar_point": "が (ga) - 1: subject marker",
+    "sentence": "夏が過ぎ、冬がふたたびやって来た。"
+  },
+  {
+    "id": 8,
+    "jlpt_level": "N5",
+    "grammar_point": "が (ga) - 2: but, however, still",
+    "sentence": "通路は広かったが真暗だった。"
+  },
+  {
+    "id": 9,
+    "jlpt_level": "N5",
+    "grammar_point": "がある (ga aru): to be, to exist (inanimate objects)",
+    "sentence": "言いたいことがありますか？"
+  },
+  {
+    "id": 10,
+    "jlpt_level": "N5",
+    "grammar_point": "がいる (gairu): to be, to exist (living objects)",
+    "sentence": "図書館に人がいっぱいいる。"
+  },
+  {
+    "id": 11,
+    "jlpt_level": "N5",
+    "grammar_point": "ほうがいい (hou ga ii) - 1: had better, should",
+    "sentence": "英会話をもっと練習したほうがいい。"
+  },
+  {
+    "id": 12,
+    "jlpt_level": "N5",
+    "grammar_point": "ほうがいい (hou ga ii) - 2: it’d be better to not",
+    "sentence": "約束を忘れないほうがいい。"
+  },
+  {
+    "id": 13,
+    "jlpt_level": "N5",
+    "grammar_point": "いちばん (ichiban): the most, the best",
+    "sentence": "一番嫌いな男性のタイプは何ですか？"
+  },
+  {
+    "id": 14,
+    "jlpt_level": "N5",
+    "grammar_point": "か (ka) - 1: question particle",
+    "sentence": "あなたがだれなのか、どうやってここへ来たのか、誰にもわからない。"
+  },
+  {
+    "id": 15,
+    "jlpt_level": "N5",
+    "grammar_point": "か (ka) - 2: or",
+    "sentence": "あの男たちは、佐々木か私を探しているのだ。"
+  },
+  {
+    "id": 16,
+    "jlpt_level": "N5",
+    "grammar_point": "から (kara) - 1: since, because",
+    "sentence": "財布を忘れたから、電車の切符を買えなかった。"
+  },
+  {
+    "id": 17,
+    "jlpt_level": "N5",
+    "grammar_point": "から (kara) - 2: from, since",
+    "sentence": "彼はやっと地獄から逃げ出した。"
+  },
+  {
+    "id": 18,
+    "jlpt_level": "N5",
+    "grammar_point": "けど / けれども (kedo / keredomo): but, however, although",
+    "sentence": "千葉君は顔は汚いけど、心はとっても清いんです。"
+  },
+  {
+    "id": 19,
+    "jlpt_level": "N5",
+    "grammar_point": "くらい / ぐらい (kurai / gurai) - 1: about, approximately, at the very least",
+    "sentence": "自分の服ぐらい自分で洗ってよ。"
+  },
+  {
+    "id": 20,
+    "jlpt_level": "N5",
+    "grammar_point": "まだ (mada): still, not yet",
+    "sentence": "わたしはまだ結婚していません。"
+  },
+  {
+    "id": 21,
+    "jlpt_level": "N5",
+    "grammar_point": "まで (made): until, till, as far as, to (an extent)",
+    "sentence": "この話に結着がつくまでお待ちになってください。"
+  },
+  {
+    "id": 22,
+    "jlpt_level": "N5",
+    "grammar_point": "まえに (mae ni): before, in front of",
+    "sentence": "食事の前に手を洗ってください。"
+  },
+  {
+    "id": 23,
+    "jlpt_level": "N5",
+    "grammar_point": "ませんか (masen ka): let’s, won’t you",
+    "sentence": "私のパーティーに参加しませんか？"
+  },
+  {
+    "id": 24,
+    "jlpt_level": "N5",
+    "grammar_point": "ましょう (mashou): let’s, shall we",
+    "sentence": "テストを始めましょうか？"
+  },
+  {
+    "id": 25,
+    "jlpt_level": "N5",
+    "grammar_point": "も (mo): also, too, as well",
+    "sentence": "僕も昨日徹夜で勉強しました。"
+  },
+  {
+    "id": 26,
+    "jlpt_level": "N5",
+    "grammar_point": "もう (mou): already, anymore",
+    "sentence": "もう我慢できない。"
+  },
+  {
+    "id": 27,
+    "jlpt_level": "N5",
+    "grammar_point": "な (na): don’t do (command)",
+    "sentence": "銃を使うな！"
+  },
+  {
+    "id": 28,
+    "jlpt_level": "N5",
+    "grammar_point": "ないでください (naide kudasai): please don’t",
+    "sentence": "宿題をするのを忘れないでください。"
+  },
+  {
+    "id": 29,
+    "jlpt_level": "N5",
+    "grammar_point": "なる (naru): to become",
+    "sentence": "彼女が美しくなりましたね。"
+  },
+  {
+    "id": 30,
+    "jlpt_level": "N5",
+    "grammar_point": "に (ni): in, at, on",
+    "sentence": "ここに名前を書いてください。"
+  },
+  {
+    "id": 31,
+    "jlpt_level": "N5",
+    "grammar_point": "に/へ (ni/e): to",
+    "sentence": "ベッドに戻りたい。"
+  },
+  {
+    "id": 32,
+    "jlpt_level": "N5",
+    "grammar_point": "にいく (ni iku): to go in order to do something",
+    "sentence": "薪を集めに行こう!"
+  },
+  {
+    "id": 33,
+    "jlpt_level": "N5",
+    "grammar_point": "にする (ni suru): to decide on",
+    "sentence": "田舎へは行かないことにしましょうよ。"
+  },
+  {
+    "id": 34,
+    "jlpt_level": "N5",
+    "grammar_point": "の (no) - 1: of (indicates possessive)",
+    "sentence": "予定の計画にはなんら変更はありません。"
+  },
+  {
+    "id": 35,
+    "jlpt_level": "N5",
+    "grammar_point": "の (no) – 2: Verb nominalizer",
+    "sentence": "わたしたちが捕まるのも時間の問題だわ！"
+  },
+  {
+    "id": 36,
+    "jlpt_level": "N5",
+    "grammar_point": "ので (node): because of, the reason is that",
+    "sentence": "少し仮眠を取りますので、状況が変化したら起こしてください。"
+  },
+  {
+    "id": 37,
+    "jlpt_level": "N5",
+    "grammar_point": "のがじょうず (no ga jouzu): to be good at",
+    "sentence": "教えるのが上手な人は、どんな人？"
+  },
+  {
+    "id": 38,
+    "jlpt_level": "N5",
+    "grammar_point": "のがへた (no ga heta): to be bad at",
+    "sentence": "お酒を飲むのが下手なのです。"
+  },
+  {
+    "id": 39,
+    "jlpt_level": "N5",
+    "grammar_point": "のがすき (no ga suki): to love doing something",
+    "sentence": "妻は不平を言うのが好き。"
+  },
+  {
+    "id": 40,
+    "jlpt_level": "N5",
+    "grammar_point": "すぎる (sugiru): too much",
+    "sentence": "この子達にギャンブルは早すぎる。"
+  },
+  {
+    "id": 41,
+    "jlpt_level": "N5",
+    "grammar_point": "たい (tai): want to",
+    "sentence": "あなたの言うことを聞きたくない。"
+  },
+  {
+    "id": 42,
+    "jlpt_level": "N5",
+    "grammar_point": "たことがある (ta koto ga aru): have done something before",
+    "sentence": "あの人は誰？何度も見たことがあるよ。"
+  },
+  {
+    "id": 43,
+    "jlpt_level": "N5",
+    "grammar_point": "ている (te iru): to be doing something",
+    "sentence": "何を考えていますか？"
+  },
+  {
+    "id": 44,
+    "jlpt_level": "N5",
+    "grammar_point": "てください (te kudasai): please do",
+    "sentence": "ドアをしめてください。"
+  },
+  {
+    "id": 45,
+    "jlpt_level": "N5",
+    "grammar_point": "てもいい (te mo ii): it’s okay to, can, may",
+    "sentence": "それじゃ、わたし、行ってもいいですか？"
+  },
+  {
+    "id": 46,
+    "jlpt_level": "N5",
+    "grammar_point": "てから (te kara): after doing something, since",
+    "sentence": "このクラブを出てから兄は行方不明になったんだ！"
+  },
+  {
+    "id": 47,
+    "jlpt_level": "N5",
+    "grammar_point": "てはいけない (te wa ikenai): may not, must not",
+    "sentence": "あの男には逆らってはいけないと思う。"
+  },
+  {
+    "id": 48,
+    "jlpt_level": "N5",
+    "grammar_point": "と (to) - 1: and, with",
+    "sentence": "若い二人は目と目を見交わした。"
+  },
+  {
+    "id": 49,
+    "jlpt_level": "N5",
+    "grammar_point": "つもり (tsumori): plan on doing something",
+    "sentence": "国へ帰ったら、会社をつくるつもりだ。"
+  },
+  {
+    "id": 50,
+    "jlpt_level": "N5",
+    "grammar_point": "や (ya): and",
+    "sentence": "私はずっと、レジャーや観光や旅行にとても関心がありました。"
+  },
+  {
+    "id": 51,
+    "jlpt_level": "N5",
+    "grammar_point": "より~ほうが ~ (yori~ hou ga): more than",
+    "sentence": "女より男のほうが飽きやすいものだ。"
+  },
+  {
+    "id": 52,
+    "jlpt_level": "N4",
+    "grammar_point": "あまり～ない (amari~nai): not very, not much",
+    "sentence": "今度の一件については、どうもあまり自信はない。"
+  },
+  {
+    "id": 53,
+    "jlpt_level": "N4",
+    "grammar_point": "あとで (ato de): after, later",
+    "sentence": "私は会社を辞めたあとで、彼からの連絡もめっきり減っていた。"
+  },
+  {
+    "id": 54,
+    "jlpt_level": "N4",
+    "grammar_point": "ば (ba): if… then",
+    "sentence": "人は死ねば、皮膚しか身につけていない。"
+  },
+  {
+    "id": 55,
+    "jlpt_level": "N4",
+    "grammar_point": "場合は (baai wa): in the event of",
+    "sentence": "頭部の外傷の場合、最初の二十四時間は注意が必要です。"
+  },
+  {
+    "id": 56,
+    "jlpt_level": "N4",
+    "grammar_point": "だけで (dake de): just by",
+    "sentence": "安定した収入を得るだけでは満足できなかった。"
+  },
+  {
+    "id": 57,
+    "jlpt_level": "N4",
+    "grammar_point": "だす (dasu): to suddenly begin, to suddenly appear",
+    "sentence": "彼の話を聞いて、つい笑い出してしまった。"
+  },
+  {
+    "id": 58,
+    "jlpt_level": "N4",
+    "grammar_point": "でも (demo): or something",
+    "sentence": "何か暖かいものでも飲む？"
+  },
+  {
+    "id": 59,
+    "jlpt_level": "N4",
+    "grammar_point": "でございます (de gozaimasu): to be (honorific)",
+    "sentence": "ほんとに冬の間は、ここはおそろしいほど閑静なんでございますのよ。"
+  },
+  {
+    "id": 60,
+    "jlpt_level": "N4",
+    "grammar_point": "がる (garu): to show signs of, to feel",
+    "sentence": "手に入れるのが難しいものほど、人は欲しがるのだ。"
+  },
+  {
+    "id": 61,
+    "jlpt_level": "N4",
+    "grammar_point": "がする (ga suru): smell, hear, taste",
+    "sentence": "背後で重厚なドアが閉じる音がした。"
+  },
+  {
+    "id": 62,
+    "jlpt_level": "N4",
+    "grammar_point": "ごろ (goro): around, about",
+    "sentence": "オフィスには八時頃行き、電話をかけたり受けたりし始めます。"
+  },
+  {
+    "id": 63,
+    "jlpt_level": "N4",
+    "grammar_point": "ございます (gozaimasu): to be, to exist (honorific)",
+    "sentence": "ここに私の出生証明書がございます。"
+  },
+  {
+    "id": 64,
+    "jlpt_level": "N4",
+    "grammar_point": "始める (hajimeru): to start, to begin to",
+    "sentence": "私はとても暑く感じ始めました。"
+  },
+  {
+    "id": 65,
+    "jlpt_level": "N4",
+    "grammar_point": "はずだ (hazu da): it must be, it should be",
+    "sentence": "容疑者に裁判を拒否することはできないはずです。"
+  },
+  {
+    "id": 66,
+    "jlpt_level": "N4",
+    "grammar_point": "はずがない (hazu ga nai): cannot be",
+    "sentence": "ご主人の悪口を奥さんに聞かせていいはずがないんだ。"
+  },
+  {
+    "id": 67,
+    "jlpt_level": "N4",
+    "grammar_point": "必要: need, necessary",
+    "sentence": "私たちには、皆が公平に扱われるための、明確な一連の規則が必要だ。"
+  },
+  {
+    "id": 68,
+    "jlpt_level": "N4",
+    "grammar_point": "必要がある (hitsuyou ga aru): it is necessary to",
+    "sentence": "もう一度お会いする必要があります。"
+  },
+  {
+    "id": 69,
+    "jlpt_level": "N4",
+    "grammar_point": "欲しい (hoshii): to want something, to be in need of",
+    "sentence": "イエスという答がほしい。あなたはこの仕事の最適任者だ。"
+  },
+  {
+    "id": 70,
+    "jlpt_level": "N4",
+    "grammar_point": "いらっしゃる (irassharu): to be, to come, to go (honorific)",
+    "sentence": "またいらっしゃってください。"
+  },
+  {
+    "id": 71,
+    "jlpt_level": "N4",
+    "grammar_point": "いたす (itasu): to do (honorific)",
+    "sentence": "お邪魔いたしまして申しわけございませんでした。"
+  },
+  {
+    "id": 72,
+    "jlpt_level": "N4",
+    "grammar_point": "じゃないか (janai ka): isn’t it",
+    "sentence": "隠れるところがないじゃないか！"
+  },
+  {
+    "id": 73,
+    "jlpt_level": "N4",
+    "grammar_point": "かどうか (ka dou ka): whether or not",
+    "sentence": "自分が本当に正しいことをしているのかどうか、確信がもてなくなることがある。"
+  },
+  {
+    "id": 74,
+    "jlpt_level": "N4",
+    "grammar_point": "かい (kai): [turns a sentence into a yes/no question]",
+    "sentence": "それで、学校はどうだった？友だちはできたかい？"
+  },
+  {
+    "id": 75,
+    "jlpt_level": "N4",
+    "grammar_point": "かもしれない (kamoshirenai): might, maybe",
+    "sentence": "私は本当はあなたに会わなかったほうがよかったのかもしれない。"
+  },
+  {
+    "id": 76,
+    "jlpt_level": "N4",
+    "grammar_point": "かな (kana): I wonder",
+    "sentence": "あなたはわたしといっしょに旅行するのはいやなのかな？"
+  },
+  {
+    "id": 77,
+    "jlpt_level": "N4",
+    "grammar_point": "かた (kata): how to",
+    "sentence": "その初めて投票したときのやり方は、誇れるようなものではありません。"
+  },
+  {
+    "id": 78,
+    "jlpt_level": "N4",
+    "grammar_point": "かしら (kashira): I wonder",
+    "sentence": "今度の土曜日に電話かけていいかしら？"
+  },
+  {
+    "id": 79,
+    "jlpt_level": "N4",
+    "grammar_point": "こと (koto): Verb nominalizer",
+    "sentence": "彼は休息に多くの時間をあたえることになれていない。"
+  },
+  {
+    "id": 80,
+    "jlpt_level": "N4",
+    "grammar_point": "ことができる (koto ga dekiru): can, be able to",
+    "sentence": "彼女はどうかこうか字は読めたが、書くことができなかった。"
+  },
+  {
+    "id": 81,
+    "jlpt_level": "N4",
+    "grammar_point": "までに (made ni): by, by the time",
+    "sentence": "僕はこれまでに何度か彼女に嘘をついた。"
+  },
+  {
+    "id": 82,
+    "jlpt_level": "N4",
+    "grammar_point": "みたい (mitai): like, sort of",
+    "sentence": "あまり頭のいい人物じゃなかったけど、かなり儲けているみたいだった。"
+  },
+  {
+    "id": 83,
+    "jlpt_level": "N4",
+    "grammar_point": "みたいに/みたいな (mitai ni/mitai na): like, similar to",
+    "sentence": "彼女の心は氷みたいに冷たい。"
+  },
+  {
+    "id": 84,
+    "jlpt_level": "N4",
+    "grammar_point": "など (nado): such as, things like",
+    "sentence": "これ以上人生から学ぶことなどないと考えていた。"
+  },
+  {
+    "id": 85,
+    "jlpt_level": "N4",
+    "grammar_point": "ながら (nagara): while, during, as",
+    "sentence": "子どものころは誰もがバービー人形で遊びながら育ちますよね。"
+  },
+  {
+    "id": 86,
+    "jlpt_level": "N4",
+    "grammar_point": "ないで (naide): without doing, don’t",
+    "sentence": "僕たちは誰にも気付かれないで村を出てきたんだ。"
+  },
+  {
+    "id": 87,
+    "jlpt_level": "N4",
+    "grammar_point": "なければいけない/なければならない (nakereba ikenai/nakereba naranai): must, have to",
+    "sentence": "だが私は行かなければならない。私を引きとめようとしても無駄だからね。"
+  },
+  {
+    "id": 88,
+    "jlpt_level": "N4",
+    "grammar_point": "なくてはいけない/なくてはならない (nakutewa ikenai/nakutewa naranai): must, have to",
+    "sentence": "報告書を書き直さなくてはならない。"
+  },
+  {
+    "id": 89,
+    "jlpt_level": "N4",
+    "grammar_point": "なくてもいい (nakute mo ii): don’t have to",
+    "sentence": "もうこの問題については考えなくていい。"
+  },
+  {
+    "id": 90,
+    "jlpt_level": "N4",
+    "grammar_point": "なら (nara): if, in case, as for",
+    "sentence": "彼女を殺したいのなら、僕も殺しなさい！"
+  },
+  {
+    "id": 91,
+    "jlpt_level": "N4",
+    "grammar_point": "なさい (nasai): command (order somebody to do something)",
+    "sentence": "元気を出しなさい。来週には京都に連れていってやろう。"
+  },
+  {
+    "id": 92,
+    "jlpt_level": "N4",
+    "grammar_point": "なさる (nasaru): to do (honorific)",
+    "sentence": "あまり期待なさらないでくださいよ。"
+  },
+  {
+    "id": 93,
+    "jlpt_level": "N4",
+    "grammar_point": "に気がつく (ni ki ga tsuku): to notice, to realize",
+    "sentence": "そのとき彼は、彼女が泣いているのに気がついた。"
+  },
+  {
+    "id": 94,
+    "jlpt_level": "N4",
+    "grammar_point": "にくい (nikui): difficult, hard to",
+    "sentence": "悪い知らせって言いにくい。"
+  },
+  {
+    "id": 95,
+    "jlpt_level": "N4",
+    "grammar_point": "に見える (ni mieru): to look, to seem",
+    "sentence": "私には、彼は少し腹を立てているように見えた。"
+  },
+  {
+    "id": 96,
+    "jlpt_level": "N4",
+    "grammar_point": "のなかで (no naka de): in, among",
+    "sentence": "彼は俺に人生の中で一番の親友だ。"
+  },
+  {
+    "id": 97,
+    "jlpt_level": "N4",
+    "grammar_point": "のに(noni) - 1: in order to",
+    "sentence": "妹は顔を洗うのにすごく長い時間がかかります。"
+  },
+  {
+    "id": 98,
+    "jlpt_level": "N4",
+    "grammar_point": "のに (noni) - 2: although, in spite of",
+    "sentence": "冬が近づいているのに、食糧がない。"
+  },
+  {
+    "id": 99,
+    "jlpt_level": "N4",
+    "grammar_point": "のように / のような (no you ni/no you na): like, similar to",
+    "sentence": "彼の眼は錐のように、冷たく、そして鋭かった。"
+  },
+  {
+    "id": 100,
+    "jlpt_level": "N4",
+    "grammar_point": "お～ください (o~kudasai): please do (honorific)",
+    "sentence": "ドアが閉まります。ご注意ください。"
+  },
+  {
+    "id": 101,
+    "jlpt_level": "N4",
+    "grammar_point": "お～になる (o~ni naru): to do (honorific)",
+    "sentence": "いつ招待状をお出しになりますか？"
+  },
+  {
+    "id": 102,
+    "jlpt_level": "N4",
+    "grammar_point": "おきに (oki ni): repeated at intervals, every",
+    "sentence": "彼は一週間おきに問題を起こす生徒だ。"
+  },
+  {
+    "id": 103,
+    "jlpt_level": "N4",
+    "grammar_point": "終わる (owaru): to finish, to end",
+    "sentence": "話し終わると、記者たちの質問が殺到した。"
+  },
+  {
+    "id": 104,
+    "jlpt_level": "N4",
+    "grammar_point": "られる (rareru) - 1: to be able to do something",
+    "sentence": "彼が酒に溺れて自殺するなんて信じられなかった。"
+  },
+  {
+    "id": 105,
+    "jlpt_level": "N4",
+    "grammar_point": "られる (rareru) - 2 (owaru): passive voice",
+    "sentence": "彼に無視されるのがこんなにつらいとは思わなかった。"
+  },
+  {
+    "id": 106,
+    "jlpt_level": "N4",
+    "grammar_point": "らしい (rashii): seems like",
+    "sentence": "どうも最近、物覚えがわるくなっているらしい。"
+  },
+  {
+    "id": 107,
+    "jlpt_level": "N4",
+    "grammar_point": "さ (sa): [nominalizer for adjectives]",
+    "sentence": "あなたの強さは、どこから来ているのでしょうか？"
+  },
+  {
+    "id": 108,
+    "jlpt_level": "N4",
+    "grammar_point": "させる (saseru): to make/let somebody do something",
+    "sentence": "なぜかその人たちは、わたしを不安な気持にさせた。"
+  },
+  {
+    "id": 109,
+    "jlpt_level": "N4",
+    "grammar_point": "させられる (saserareru): to be made to do something",
+    "sentence": "母は家計を支えるために高校をやめさせられた。"
+  },
+  {
+    "id": 110,
+    "jlpt_level": "N4",
+    "grammar_point": "さすが (sasuga): as one would expect",
+    "sentence": "さすがにこういうところには住みたくないな…"
+  },
+  {
+    "id": 111,
+    "jlpt_level": "N4",
+    "grammar_point": "し～し (shi~shi): and",
+    "sentence": "彼は勉強も運動もできるし背も高いし…"
+  },
+  {
+    "id": 112,
+    "jlpt_level": "N4",
+    "grammar_point": "しか～ない (shika~nai): only, nothing but",
+    "sentence": "正しくやれるチャンスは１回しかないんだ。"
+  },
+  {
+    "id": 113,
+    "jlpt_level": "N4",
+    "grammar_point": "そんなに (sonna ni): so, so much, like that",
+    "sentence": "わたしのことがそんなに大切？"
+  },
+  {
+    "id": 114,
+    "jlpt_level": "N4",
+    "grammar_point": "それでも (sore demo): but still, and yet",
+    "sentence": "彼女は食べることに集中しようとした。それでも手は震え、顔は怒りで火照りはじめた。"
+  },
+  {
+    "id": 115,
+    "jlpt_level": "N4",
+    "grammar_point": "そうに/そうな (sou ni/sou na): seem, look like",
+    "sentence": "ヒカルだけがかなり快活そうな様子をしていました。"
+  },
+  {
+    "id": 116,
+    "jlpt_level": "N4",
+    "grammar_point": "そうだ (sou da) - 1: I heard that, it is said that",
+    "sentence": "うわさでは、橋本がついに職を得たそうだ。"
+  },
+  {
+    "id": 117,
+    "jlpt_level": "N4",
+    "grammar_point": "そうだ (sou da) - 2: look like, seem",
+    "sentence": "彼はいまにも涙をこぼしそうだった。"
+  },
+  {
+    "id": 118,
+    "jlpt_level": "N4",
+    "grammar_point": "たばかり (ta bakari): just did, something just happened",
+    "sentence": "その話を聞いていたら、うちの娘が生まれたばかりのころを思い出した。"
+  },
+  {
+    "id": 119,
+    "jlpt_level": "N4",
+    "grammar_point": "たがる (tagaru): to want to",
+    "sentence": "三浦さんは私の演説に目を通したがっていた。"
+  },
+  {
+    "id": 120,
+    "jlpt_level": "N4",
+    "grammar_point": "たら (tara): if, after, when",
+    "sentence": "もしあなたがお亡くなりになったら、私も死にます。"
+  },
+  {
+    "id": 121,
+    "jlpt_level": "N4",
+    "grammar_point": "たらどう (tara dou): why don’t you?",
+    "sentence": "それはネットで調べたらどう？"
+  },
+  {
+    "id": 122,
+    "jlpt_level": "N4",
+    "grammar_point": "たり～たり (tari~tari): do such things like",
+    "sentence": "友達と一緒にご飯を食べたり話したりするのが楽しかったです。"
+  },
+  {
+    "id": 123,
+    "jlpt_level": "N4",
+    "grammar_point": "たところ (ta tokoro): just finished doing, was just doing",
+    "sentence": "高木が、書斎のガラス戸から庭へ出たところだ。"
+  },
+  {
+    "id": 124,
+    "jlpt_level": "N4",
+    "grammar_point": "てあげる (te ageru): to do something for someone",
+    "sentence": "タクシーを拾ってあげようか？"
+  },
+  {
+    "id": 125,
+    "jlpt_level": "N4",
+    "grammar_point": "てある (te aru): something is/has been done",
+    "sentence": "何かが骨のなかに差し込んである。"
+  },
+  {
+    "id": 126,
+    "jlpt_level": "N4",
+    "grammar_point": "てほしい (te hoshii): I need you to",
+    "sentence": "向こうで待っていてほしい。あとから私も行く。"
+  },
+  {
+    "id": 127,
+    "jlpt_level": "N4",
+    "grammar_point": "ていく (te iku): to go on, to start",
+    "sentence": "彼はもう一度詫びを述べて、別のドアから出て行った。"
+  },
+  {
+    "id": 128,
+    "jlpt_level": "N4",
+    "grammar_point": "ているところ (teiru tokoro): in the process of doing",
+    "sentence": "どうぞお楽に、ちょうどお茶を淹れているところです。"
+  },
+  {
+    "id": 129,
+    "jlpt_level": "N4",
+    "grammar_point": "ていた (te ita): was doing something",
+    "sentence": "真純の眼はじっと地面を見つめていた。"
+  },
+  {
+    "id": 130,
+    "jlpt_level": "N4",
+    "grammar_point": "ていただけませんか (te itadakemasen ka): could you please",
+    "sentence": "手紙ではとても説明できません。どうかお帰りになっていただけませんか？"
+  },
+  {
+    "id": 131,
+    "jlpt_level": "N4",
+    "grammar_point": "てくれる (te kureru): to do something for me or somebody's sake",
+    "sentence": "僕たちのためにいろいろ助けてくれたことは忘れない。"
+  },
+  {
+    "id": 132,
+    "jlpt_level": "N4",
+    "grammar_point": "てくる (te kuru): to come to, to become, to continue",
+    "sentence": "喉が渇いたから飲み物を買ってくる。"
+  },
+  {
+    "id": 133,
+    "jlpt_level": "N4",
+    "grammar_point": "てみる (te miru): to try to",
+    "sentence": "ロック・クライミングにも挑戦してみたいです。"
+  },
+  {
+    "id": 134,
+    "jlpt_level": "N4",
+    "grammar_point": "ても (temo): even if, even though",
+    "sentence": "自分が疲れていても、ひもじくても、わたしを看護して、食べさせてくれたわ。"
+  },
+  {
+    "id": 135,
+    "jlpt_level": "N4",
+    "grammar_point": "てもらう (te morau): to get somebody to do something",
+    "sentence": "あなたに認めてもらいたいんです。わたしとエミリーとの結婚を。"
+  },
+  {
+    "id": 136,
+    "jlpt_level": "N4",
+    "grammar_point": "ておく (te oku): to do something in advance",
+    "sentence": "この恐ろしい秘密は、われわれ二人の胸中深く秘めておこう。"
+  },
+  {
+    "id": 137,
+    "jlpt_level": "N4",
+    "grammar_point": "てしまう (te shimau): to do something by accident, to finish completely",
+    "sentence": "いったい誰がこの致命的な秘密をあの子に知らせてしまったのか、私どもにはわかりませんでした。"
+  },
+  {
+    "id": 138,
+    "jlpt_level": "N4",
+    "grammar_point": "てすみません (te sumimasen): I’m sorry for",
+    "sentence": "この件についてだまっていてすみません。"
+  },
+  {
+    "id": 139,
+    "jlpt_level": "N4",
+    "grammar_point": "てよかった (te yokatta): I’m glad that",
+    "sentence": "あなたが早めに席を予約してくれてよかった。"
+  },
+  {
+    "id": 140,
+    "jlpt_level": "N4",
+    "grammar_point": "と (to): if, when",
+    "sentence": "この手紙を朗読すると、詩的に聞こえませんか？"
+  },
+  {
+    "id": 141,
+    "jlpt_level": "N4",
+    "grammar_point": "と～と、どちらが (to~to, dochira ga): which one",
+    "sentence": "日本語と英語とどちらが難しいですか。"
+  },
+  {
+    "id": 142,
+    "jlpt_level": "N4",
+    "grammar_point": "ということ (to iu koto): [changes a sentence or phrase into a Noun]",
+    "sentence": "彼が金持だということが一般に知れ渡る。"
+  },
+  {
+    "id": 143,
+    "jlpt_level": "N4",
+    "grammar_point": "と言ってもいい (to itte mo ii): you could say, you might say",
+    "sentence": "そんな事は、ほとんど不可能といってもいいが…"
+  },
+  {
+    "id": 144,
+    "jlpt_level": "N4",
+    "grammar_point": "と言われている (to iwarete iru): it is said that…",
+    "sentence": "ベーカー通りにあるその古い屋敷には、よく幽霊が出ると言われている。"
+  },
+  {
+    "id": 145,
+    "jlpt_level": "N4",
+    "grammar_point": "とか～とか (toka ~ toka): among other things, such as",
+    "sentence": "右とか左とかっていうのはよくわからなくなるもんですよ。"
+  },
+  {
+    "id": 146,
+    "jlpt_level": "N4",
+    "grammar_point": "とき (toki): when, at the time",
+    "sentence": "じつは私もここに初めて入ったときには、同じことを考えましたよ。"
+  },
+  {
+    "id": 147,
+    "jlpt_level": "N4",
+    "grammar_point": "と聞いた (to kiita): I heard that",
+    "sentence": "たしかあなたはずっと独身だと聞きましたが…"
+  },
+  {
+    "id": 148,
+    "jlpt_level": "N4",
+    "grammar_point": "ところ (tokoro): about to, on the verge of",
+    "sentence": "私たちはもうすぐ到着するところです。"
+  },
+  {
+    "id": 149,
+    "jlpt_level": "N4",
+    "grammar_point": "と見える (to mieru): it seems that",
+    "sentence": "彼女のひどい仕打ちは、よっぽど深い印象をあなたの心にあたえたとみえるわ！"
+  },
+  {
+    "id": 150,
+    "jlpt_level": "N4",
+    "grammar_point": "と思う (to omou): to think",
+    "sentence": "オリンピックの後、いろんなことがぐんとよくなったと思う。"
+  },
+  {
+    "id": 151,
+    "jlpt_level": "N4",
+    "grammar_point": "続ける (tsuzukeru): to continue",
+    "sentence": "銃弾が重いドアノブをなおもたたきつづけている。"
+  },
+  {
+    "id": 152,
+    "jlpt_level": "N4",
+    "grammar_point": "やすい (yasui): easy to, likely to",
+    "sentence": "お互いへの信頼があれば、取引はずっと進めやすくなる。"
+  },
+  {
+    "id": 153,
+    "jlpt_level": "N4",
+    "grammar_point": "より (yori): more than",
+    "sentence": "とても内気だったけど、芯はわたしよりずっと強い人だった。"
+  },
+  {
+    "id": 154,
+    "jlpt_level": "N4",
+    "grammar_point": "予定だ (yotei da): plan to, intend to",
+    "sentence": "今日、午前八時に飛行機で長野を出発する予定だ。"
+  },
+  {
+    "id": 155,
+    "jlpt_level": "N4",
+    "grammar_point": "ようだ (you da): it seems that, it appears that",
+    "sentence": "いまの彼は審判を待つ罪人のようだ。"
+  },
+  {
+    "id": 156,
+    "jlpt_level": "N4",
+    "grammar_point": "ように/ような (you ni/you na): as, like",
+    "sentence": "栄介は逃げるようにして町を出ていった。"
+  },
+  {
+    "id": 157,
+    "jlpt_level": "N4",
+    "grammar_point": "ようになる (you ni naru): to reach the point that",
+    "sentence": "最近では、不愉快な思いはうまく頭から締め出せるようになった。"
+  },
+  {
+    "id": 158,
+    "jlpt_level": "N4",
+    "grammar_point": "ようにする (you ni suru): to try to, to make sure that",
+    "sentence": "このプロジェクト、私に担当させてください。期待に沿うようにします。"
+  },
+  {
+    "id": 159,
+    "jlpt_level": "N4",
+    "grammar_point": "ようと思う (you to omou): I think I will… (I’m thinking of doing…)",
+    "sentence": "明日、ランチのあとで天文学の本を買おうと思う。"
+  },
+  {
+    "id": 160,
+    "jlpt_level": "N4",
+    "grammar_point": "全然 (zenzen): (not) at all",
+    "sentence": "ちょっと待ってくれ、ぼくには、そんなことはぜんぜん理解できないよ。"
+  },
+  {
+    "id": 161,
+    "jlpt_level": "N4",
+    "grammar_point": "火事は住宅地に広がる前に消し止められた。",
+    "sentence": "ねえ、もうその話はやめよう。せっかくここまで来たんだから、もっと明るい話をしよう。"
+  },
+  {
+    "id": 162,
+    "jlpt_level": "N3",
+    "grammar_point": "あまり (amari): so much... that",
+    "sentence": "驚きと安堵のあまり、しゃべることも忘れて、僕はできる限りの速さで彼のあとを追っていった。"
+  },
+  {
+    "id": 163,
+    "jlpt_level": "N3",
+    "grammar_point": "あまりに (amari ni): so much... that, too...",
+    "sentence": "この農場主によると、不法入国者や麻薬密売人はあまりに簡単に国境を越えることができるのです。"
+  },
+  {
+    "id": 164,
+    "jlpt_level": "N3",
+    "grammar_point": "ば～ほど (ba ~ hodo): the more... the more",
+    "sentence": "「モナ・リザ」を見れば見るほど、誰もが不思議な心地に陥るものだ。"
+  },
+  {
+    "id": 165,
+    "jlpt_level": "N3",
+    "grammar_point": "ばいい (ba ii): should, can, it'd be good if",
+    "sentence": "東の方にどれくらい進めばいいのか、きみにはわかってるのかい？"
+  },
+  {
+    "id": 166,
+    "jlpt_level": "N3",
+    "grammar_point": "ばかり (bakari): only, nothing but",
+    "sentence": "タケシはふざけてばかりいるけど、仕事ではプロであり、心の温かい人です。"
+  },
+  {
+    "id": 167,
+    "jlpt_level": "N3",
+    "grammar_point": "ばかりだ (bakari da): continue to",
+    "sentence": "胸に秘めた悲しみと怒りは大きくなるばかりだ。"
+  },
+  {
+    "id": 168,
+    "jlpt_level": "N3",
+    "grammar_point": "ばかりでなく (bakari denaku): not only... but also, as well as",
+    "sentence": "これは市の財政にとって損失であるばかりでなく、市の重要地区に醜い傷を残し、深刻な環境悪化をもたらしていただろう。"
+  },
+  {
+    "id": 169,
+    "jlpt_level": "N3",
+    "grammar_point": "ばかりに (bakari ni): because, on account of",
+    "sentence": "実力のある女性は、苦境に陥っていることを人に知られたくないばかりに助けを求められないことがあるようだ。"
+  },
+  {
+    "id": 170,
+    "jlpt_level": "N3",
+    "grammar_point": "ばよかった (ba yokatta): should have, it would have been better if",
+    "sentence": "君がもっと早くそのことを言ってくれればよかったな。そしたら、途中もっと気をつけたかもしれない。"
+  },
+  {
+    "id": 171,
+    "jlpt_level": "N3",
+    "grammar_point": "べき (beki): must do, should do",
+    "sentence": "こうしたことはずっと前にやるべきだったわね。"
+  },
+  {
+    "id": 172,
+    "jlpt_level": "N3",
+    "grammar_point": "べきではない (beki dewa nai): must not do, should not do",
+    "sentence": "本来こんなことを書き送るべきではないだろう。考えてもいけない。"
+  },
+  {
+    "id": 173,
+    "jlpt_level": "N3",
+    "grammar_point": "べつに～ない (betsu ni ~ nai): not really, not particularly",
+    "sentence": "どうせいずれは話しなくちゃならないね。わたしべつに恥かしいことだとは思っていないの。"
+  },
+  {
+    "id": 174,
+    "jlpt_level": "N3",
+    "grammar_point": "中 (chuu/juu): during, throughout",
+    "sentence": "しばらくまえ、私の留守中になにか起こったようなことを言っていたね。"
+  },
+  {
+    "id": 175,
+    "jlpt_level": "N3",
+    "grammar_point": "だけ (dake) – 2: as much as",
+    "sentence": "決戦大会では、一人の候補者が過半数を得るまで、代議員たちが何回でも必要なだけ投票を行います。"
+  },
+  {
+    "id": 176,
+    "jlpt_level": "N3",
+    "grammar_point": "だらけ (darake): covered all over in, full of",
+    "sentence": "ばかね、船中を血だらけにしたいとでもいうの？"
+  },
+  {
+    "id": 177,
+    "jlpt_level": "N3",
+    "grammar_point": "どころか (dokoro ka): far from, anything but",
+    "sentence": "わたしはほしいものがすべて手に入ると期待するどころか、すべてを失うのを恐れている。"
+  },
+  {
+    "id": 178,
+    "jlpt_level": "N3",
+    "grammar_point": "どんなに～ても (donna ni ~ temo): no matter how",
+    "sentence": "どんなに素晴らしい商品を作っても、世間に知られなければ価値はないに等しい。"
+  },
+  {
+    "id": 179,
+    "jlpt_level": "N3",
+    "grammar_point": "ふりをする (furi o suru): to pretend, to act as if",
+    "sentence": "わたしはいつもテレビをつけて、それを見ているふりをしていた。"
+  },
+  {
+    "id": 180,
+    "jlpt_level": "N3",
+    "grammar_point": "がち (gachi): apt to do, tend to do",
+    "sentence": "私のようなベビーブーム世代は、生活を仕事とそれ以外に分けたがり、同僚との付き合いは避けがちです。"
+  },
+  {
+    "id": 181,
+    "jlpt_level": "N3",
+    "grammar_point": "がたい (gatai): hard to, difficult to",
+    "sentence": "彼がそんな質問をするというのは信じがたかった。"
+  },
+  {
+    "id": 182,
+    "jlpt_level": "N3",
+    "grammar_point": "ぎみ (gimi): -like, -looking",
+    "sentence": "アヤコは、顔は紫色で、日に焼けて、過労気味なのだ。"
+  },
+  {
+    "id": 183,
+    "jlpt_level": "N3",
+    "grammar_point": "ほど (hodo): the more, to the extent that, so much... that",
+    "sentence": "一生分の旅行を合わせても、パイロットとして過ごす数ヶ月もしくは１年間ほど多くの場所を訪れることは、できないと思います。"
+  },
+  {
+    "id": 184,
+    "jlpt_level": "N3",
+    "grammar_point": "ほど～ない (hodo ~ nai): is not as... as",
+    "sentence": "その日ほど、彼のそばで仕えているのが誇らしいことはなかった。"
+  },
+  {
+    "id": 185,
+    "jlpt_level": "N3",
+    "grammar_point": "いくら～ても (ikura ~ temo): no matter how",
+    "sentence": "私たちがいくら考えごとを頭から追い払おうとしても、体はメッセージを受け取っている。"
+  },
+  {
+    "id": 186,
+    "jlpt_level": "N3",
+    "grammar_point": "一方だ (ippou da): more and more, continue to",
+    "sentence": "ここには空アパートがたくさんできており、時とともにその数は増える一方だ。"
+  },
+  {
+    "id": 187,
+    "jlpt_level": "N3",
+    "grammar_point": "一方で (ippou de): on one hand, on the other hand",
+    "sentence": "光熱費、人件費、メンテナンス費などが着々と上がる一方で、市は家賃の値上げを禁じた。"
+  },
+  {
+    "id": 188,
+    "jlpt_level": "N3",
+    "grammar_point": "かけ (kake): half-, not yet finished",
+    "sentence": "彼は冷めてしまった食べかけのパイをようやく口に入れた。"
+  },
+  {
+    "id": 189,
+    "jlpt_level": "N3",
+    "grammar_point": "から言うと/から言えば/から言って (kara iu to/kara ieba/kara to itte): in terms of, from",
+    "sentence": "世間の認識という点からいえば、私の立場は弱かった。"
+  },
+  {
+    "id": 190,
+    "jlpt_level": "N3",
+    "grammar_point": "代わりに (kawari ni): instead of, in exchange for",
+    "sentence": "彼は靴ひもを結ぶかわりに、ポケットから何かを取り出し、床においていた。"
+  },
+  {
+    "id": 191,
+    "jlpt_level": "N3",
+    "grammar_point": "っけ (kke): what is... again?",
+    "sentence": "チケットはどうしたかしら？あなたが持っていたんだったっけ、それとも私？"
+  },
+  {
+    "id": 192,
+    "jlpt_level": "N3",
+    "grammar_point": "決して～ない (kesshite ~ nai): never, by no means",
+    "sentence": "もし家庭が民主的ではなかったら、決して民主的な社会は得られません。"
+  },
+  {
+    "id": 193,
+    "jlpt_level": "N3",
+    "grammar_point": "切る (kiru): to do something completely to the end",
+    "sentence": "数年前まであれほど人気をよんでいた町が、突然文字どおり冷え切ってしまった。"
+  },
+  {
+    "id": 194,
+    "jlpt_level": "N3",
+    "grammar_point": "切れない (kirenai): being too much to finish or complete",
+    "sentence": "わたしの感情はわたし自身の力では律しきれない。"
+  },
+  {
+    "id": 195,
+    "jlpt_level": "N3",
+    "grammar_point": "きり (kiri): only, just, since, after",
+    "sentence": "翌朝、彼女はホテルを徒歩で出かけたきり、二度と姿を見せないのです。"
+  },
+  {
+    "id": 196,
+    "jlpt_level": "N3",
+    "grammar_point": "こそ (koso): for sure (emphasize preceding word)",
+    "sentence": "これらのことを成し遂げる能力こそ、我々の国力を測るうえできわめて重要な物差しになるはずだ。"
+  },
+  {
+    "id": 197,
+    "jlpt_level": "N3",
+    "grammar_point": "こと (koto): (must) do",
+    "sentence": "書類の上でどんなによさそうに見える話でも、自分自身のカンに頼って判断すること。"
+  },
+  {
+    "id": 198,
+    "jlpt_level": "N3",
+    "grammar_point": "ことだ (koto da): should",
+    "sentence": "偏見にとらわれないことだ。わたしたちはみんな、理解していないものを恐れる。"
+  },
+  {
+    "id": 199,
+    "jlpt_level": "N3",
+    "grammar_point": "ことがある (koto ga aru): there are times when",
+    "sentence": "時々、彼女は結婚してキャリアを諦めたことを後悔することがある。"
+  },
+  {
+    "id": 200,
+    "jlpt_level": "N3",
+    "grammar_point": "ことか (koto ka): how...! what...!",
+    "sentence": "あかあかともえる暖炉の明かりとぬくもりを、どんなに欲しいと願ったことか！"
+  },
+  {
+    "id": 201,
+    "jlpt_level": "N3",
+    "grammar_point": "ことから (koto kara): from the fact that",
+    "sentence": "彼は父親が有名な作家であることから、範囲から特別な目で見られがちです。"
+  },
+  {
+    "id": 202,
+    "jlpt_level": "N3",
+    "grammar_point": "ことに (koto ni): unusually, especially",
+    "sentence": "びっくりすることに、アメリカで今、ソフトウェエンジニアに次いで、２番目に人気の職業は、大学の先生なんだ。"
+  },
+  {
+    "id": 203,
+    "jlpt_level": "N3",
+    "grammar_point": "ことになる (koto ni naru): it has been decided that",
+    "sentence": "アメリカの多くの若者も、１１月８日に初めて投票することになります。"
+  },
+  {
+    "id": 204,
+    "jlpt_level": "N3",
+    "grammar_point": "ことにする (koto ni suru): to decide on",
+    "sentence": "両親は、無理があってもよくないと一年だけ飛び級させることにした。"
+  },
+  {
+    "id": 205,
+    "jlpt_level": "N3",
+    "grammar_point": "ことはない (koto wa nai): there is no need to, never happens",
+    "sentence": "嫉妬することはないよ！ちょっとあなたをからかって、悲しみを軽くしてあげたかったのだ。"
+  },
+  {
+    "id": 206,
+    "jlpt_level": "N3",
+    "grammar_point": "くらい (kurai): to the extent that, so... that",
+    "sentence": "この部屋には恐らく、香港を動かしていくことができるぐらいのコンピューティング・パワーがあるでしょう。"
+  },
+  {
+    "id": 207,
+    "jlpt_level": "N3",
+    "grammar_point": "くせに (kuse ni): even though, and yet, despite",
+    "sentence": "なぜあなたは完全に立派な英語をお話しになることもあるくせに、そうでない時もあるのです？"
+  },
+  {
+    "id": 208,
+    "jlpt_level": "N3",
+    "grammar_point": "まま (mama): as it is",
+    "sentence": "彼の若々しい態度は、年を取っても変わらないままだ。"
+  },
+  {
+    "id": 209,
+    "jlpt_level": "N3",
+    "grammar_point": "まるで (maru de): as if, as though",
+    "sentence": "彼らは急に立ち止まり、まるで木の影のように音もなく立ったまま、耳を傾けた。"
+  },
+  {
+    "id": 210,
+    "jlpt_level": "N3",
+    "grammar_point": "めったに～ない (metta ni ~ nai): hardly, rarely, seldom",
+    "sentence": "旅に出るまえの子どもは、あれこれ考えて興奮しているので、食がすすむことはめったにない。"
+  },
+  {
+    "id": 211,
+    "jlpt_level": "N3",
+    "grammar_point": "もの (mono): because (indicate reason or excuse)",
+    "sentence": "あやまることはないよ。君が悪いわけじゃないんだもの。"
+  },
+  {
+    "id": 212,
+    "jlpt_level": "N3",
+    "grammar_point": "ものだ (mono da): used to do something, should do something",
+    "sentence": "私は言い訳だけはしたくないの。人間というのは一度言い訳を始めると、限りなく言い訳をしてしまうものだし。"
+  },
+  {
+    "id": 213,
+    "jlpt_level": "N3",
+    "grammar_point": "もしかしたら (moshikashitara): perhaps, maybe",
+    "sentence": "もしかしたら私は彼と結婚するかもしれないのだ！"
+  },
+  {
+    "id": 214,
+    "jlpt_level": "N3",
+    "grammar_point": "向き (muki): suitable for",
+    "sentence": "留学生向きの大学案内書が刊行された。"
+  },
+  {
+    "id": 215,
+    "jlpt_level": "N3",
+    "grammar_point": "向け(muke): intended for, aimed at",
+    "sentence": "私たちは大企業向けのハイエンドなネット・ソリューションを供給するという事業計画をまとめました。"
+  },
+  {
+    "id": 216,
+    "jlpt_level": "N3",
+    "grammar_point": "ながらも (nagara mo): but, although, despite",
+    "sentence": "「心配しないで」彼女は声を震わせながらも、力づけるように言った。"
+  },
+  {
+    "id": 217,
+    "jlpt_level": "N3",
+    "grammar_point": "ないことはない (nai koto wa nai): can, is not impossible",
+    "sentence": "わたしも留学したことがありますから、あなたの苦労が分からないことはありません。"
+  },
+  {
+    "id": 218,
+    "jlpt_level": "N3",
+    "grammar_point": "なんか / なんて (nanka / nante): such as, things like",
+    "sentence": "けど、こんなことになるなんて、誰が予想したでしょう？"
+  },
+  {
+    "id": 219,
+    "jlpt_level": "N3",
+    "grammar_point": "なぜなら/なぜかというと (nazenara/naze ka to iu to): because, the reason is",
+    "sentence": "愛し合ってる者同士は喧嘩するものよ。なぜかというとお互いに相手をよくわかっていな"
+  },
+  {
+    "id": 220,
+    "jlpt_level": "N3",
+    "grammar_point": "いからなの。よくわかったころにはすでに愛情はさめてるわ。",
+    "sentence": "んだって (ndatte): I heard that"
+  },
+  {
+    "id": 221,
+    "jlpt_level": "N3",
+    "grammar_point": "彼女、休みには会いに来るんだって。",
+    "sentence": "に違いない(ni chigai nai): I'm sure, no doubt that"
+  },
+  {
+    "id": 222,
+    "jlpt_level": "N3",
+    "grammar_point": "あそこには、この世の始源から見つかったことのないでっかい秘密が埋もれているに違いないぞ。",
+    "sentence": "にかけて (ni kakete): over (a period), through, concerning"
+  },
+  {
+    "id": 223,
+    "jlpt_level": "N3",
+    "grammar_point": "ＮＧＯのフリーダム・ハウスによれば、２００７年から２０１１年にかけて、アジアは世界において唯一、政治的な権利と市民の自由が着実に増している地域でもある。",
+    "sentence": "に関する / に関して (ni kansu ru / ni kanshite): related to"
+  },
+  {
+    "id": 224,
+    "jlpt_level": "N3",
+    "grammar_point": "２０世紀の日本を含む、立憲君主制を取る国のほとんどには、継承に関する正規の形式が存在します。",
+    "sentence": "にかわって (ni kawatte): in stead of, on behalf of"
+  },
+  {
+    "id": 225,
+    "jlpt_level": "N3",
+    "grammar_point": "彼は父親に代わって経営に携わるのは時間の問題だ。",
+    "sentence": "に比べて (ni kurabete): compared to"
+  },
+  {
+    "id": 226,
+    "jlpt_level": "N3",
+    "grammar_point": "アメリカでの生活は、日本に比べてどのような違いがありましたか？",
+    "sentence": "において/ における (ni oite / ni okeru): in, on, at, as for, regarding"
+  },
+  {
+    "id": 227,
+    "jlpt_level": "N3",
+    "grammar_point": "人々を統べる最高権威を有するのは誰かというのは、今日にあっても世界各地の社会において、いまだ決着のついていない論題です。",
+    "sentence": "にしては (ni shite wa): for, considering it's"
+  },
+  {
+    "id": 228,
+    "jlpt_level": "N3",
+    "grammar_point": "彼は大学時代の体形のままとはいかないが、いまも引きしまったしなやかな肉体を保っていて、五十代の男にしては悪くない。",
+    "sentence": "にしても (ni shite mo): even if"
+  },
+  {
+    "id": 229,
+    "jlpt_level": "N3",
+    "grammar_point": "パキスタンや米国、その他の国の影響と関与があったにしても、結局これはアフガニスタンの人々のあいだの戦争であり、彼らの国の将来がかかっている。",
+    "sentence": "に対して (ni taishite): in contrast to, while, in regard to"
+  },
+  {
+    "id": 230,
+    "jlpt_level": "N3",
+    "grammar_point": "私たちの目標は、貧しい子どもたちの窮状に対して何か手を打つことだ。",
+    "sentence": "にとって (ni totte): to, for, concerning"
+  },
+  {
+    "id": 231,
+    "jlpt_level": "N3",
+    "grammar_point": "道路や電気、水道は、すべての都市にとって重要なインフラだ。",
+    "sentence": "について (ni tsuite): concerning, regarding"
+  },
+  {
+    "id": 232,
+    "jlpt_level": "N3",
+    "grammar_point": "ほとんどの人がイギリスの地下鉄システムについて文句を言うね。",
+    "sentence": "につれ/につれて (ni tsure/ni tsurete): as... then"
+  },
+  {
+    "id": 233,
+    "jlpt_level": "N3",
+    "grammar_point": "タイの高齢化が進むにつれ、この国の高齢者にはより多くのこうした施設が必要になるでしょう。",
+    "sentence": "によると / によれば (ni yoru to / ni yoreba): according to"
+  },
+  {
+    "id": 234,
+    "jlpt_level": "N3",
+    "grammar_point": "広まっていた噂によると、この男は数ヶ月前から異常な妄想に取り憑かれていたらしい。",
+    "sentence": "によって / による (ni yotte / ni yoru): by means of, due to"
+  },
+  {
+    "id": 235,
+    "jlpt_level": "N3",
+    "grammar_point": "選挙環境が、基本的自由や政治的権利の制限、厳しいメディア統制、市民社会に対する締め付けの強化によって、悪影響を受けていました。",
+    "sentence": "間に/の間に (aida ni/no aida ni): while, during"
+  },
+  {
+    "id": 236,
+    "jlpt_level": "N3",
+    "grammar_point": "あれこれ計画を立てている間にいろんなことが起こるのが人生だ。",
+    "sentence": "をはじめ (o hajime): for example, starting with"
+  },
+  {
+    "id": 237,
+    "jlpt_level": "N3",
+    "grammar_point": "東京をはじめ、たくさんの大都会へ行ったこともあるのに、わが家ほどいいところはない。",
+    "sentence": "おかげで (okage de): thanks to, because of"
+  },
+  {
+    "id": 238,
+    "jlpt_level": "N3",
+    "grammar_point": "こうした独自の体験のおかげで、世界を、違った、より想像力豊かな目で見られるようになったと思われますか？",
+    "sentence": "っぱなし (ppanashi): leaving something on, leaving something still in use"
+  },
+  {
+    "id": 239,
+    "jlpt_level": "N3",
+    "grammar_point": "私は夜になると片付けものをしながら、リビングのテレビを一時間から二時間つけっぱなしにしています。",
+    "sentence": "っぽい (ppoi): -ish, -like"
+  },
+  {
+    "id": 240,
+    "jlpt_level": "N3",
+    "grammar_point": "めったに使わない部屋は、なにもかも湿っぽくなります。",
+    "sentence": "さえ (sae): even"
+  },
+  {
+    "id": 241,
+    "jlpt_level": "N3",
+    "grammar_point": "このドラマは、主演俳優の僕でさえも「続きが早く見たい！」と思うほどの脚本です。",
+    "sentence": "さえ～ば (sae ~ ba): if only... then"
+  },
+  {
+    "id": 242,
+    "jlpt_level": "N3",
+    "grammar_point": "経営さえうまく行えば、この施設は莫大な利益をあげる可能性をもつ。",
+    "sentence": "最中で/最中に (saichuu de/saichuu ni): in the middle of"
+  },
+  {
+    "id": 243,
+    "jlpt_level": "N3",
+    "grammar_point": "危機の最中であっても、彼女は人々の声に耳を傾け、冷静さを保ち、すべての人に敬意を持って接します。",
+    "sentence": "せいで (sei de): because of"
+  },
+  {
+    "id": 244,
+    "jlpt_level": "N3",
+    "grammar_point": "病院で投与された鎮静剤のせいで、思考も視界もぼやけていた。",
+    "sentence": "次第 (shidai): as soon as, dependent upon"
+  },
+  {
+    "id": 245,
+    "jlpt_level": "N3",
+    "grammar_point": "お名前をお調べしたところ、特記事項がありまして、連絡がつきしだいシェリフにおつなぎすることになっています。",
+    "sentence": "しかない (shika nai): have no choice but"
+  },
+  {
+    "id": 246,
+    "jlpt_level": "N3",
+    "grammar_point": "利益をあげるには経費を切り詰めるしかなく、ぜいたくが入り込める余地はない。",
+    "sentence": "その結果 (sono kekka): as a result"
+  },
+  {
+    "id": 247,
+    "jlpt_level": "N3",
+    "grammar_point": "全然勉強をしなかった。その結果、入学試験に落ちてしまった。",
+    "sentence": "そうもない (sou mo nai): very unlikely to"
+  },
+  {
+    "id": 248,
+    "jlpt_level": "N3",
+    "grammar_point": "彼らが納得されて戦闘をやめるなど、起こりそうもない。",
+    "sentence": "たびに (tabi ni): each time, everytime, whenever"
+  },
+  {
+    "id": 249,
+    "jlpt_level": "N3",
+    "grammar_point": "自分の考えを正直に口にするたびに、みんなに驚かれたものだ。",
+    "sentence": "ために (tame ni) 1: for, for the sake of, in order to"
+  },
+  {
+    "id": 250,
+    "jlpt_level": "N3",
+    "grammar_point": "国のために亡くなるのは永久に生きることだ。",
+    "sentence": "ために (tame ni) 2: because of, as a result of"
+  },
+  {
+    "id": 251,
+    "jlpt_level": "N3",
+    "grammar_point": "長引く干ばつのため、新鮮な青果は品不足だった。",
+    "sentence": "たらいい/といい (tara ii / to ii): it would be nice if, should, I hope"
+  },
+  {
+    "id": 252,
+    "jlpt_level": "N3",
+    "grammar_point": "我々はアジアにおいて米国の利益のバランスをどうとったらいいのかを話し合った。",
+    "sentence": "たとえ～ても (tatoe ~ temo): even if... is the case"
+  },
+  {
+    "id": 253,
+    "jlpt_level": "N3",
+    "grammar_point": "このチャレンジは、たとえいまは大変に思えても、がんばって続けていくうちにだんだん楽になっていく。",
+    "sentence": "たとたん (ta totan): just (now, at the moment), as soon as"
+  },
+  {
+    "id": 254,
+    "jlpt_level": "N3",
+    "grammar_point": "階段に兵士たちが現れた。猛然と上をめざしていたが、廊下の暗がりに老人の姿を認めたとたん、立ち止まった。",
+    "sentence": "てごらん (te goran): (please) try to, (please) look"
+  },
+  {
+    "id": 255,
+    "jlpt_level": "N3",
+    "grammar_point": "そのソファにでもかけてぜんぶうちあけてごらんなさい。",
+    "sentence": "てはじめて (te hajimete): not until, only after... did I"
+  },
+  {
+    "id": 256,
+    "jlpt_level": "N3",
+    "grammar_point": "いま、生まれて初めて、複雑な人間性というものに直面している。",
+    "sentence": "てもかまわない (temo kamawanai): it doesn't matter if"
+  },
+  {
+    "id": 257,
+    "jlpt_level": "N3",
+    "grammar_point": "濡れてもかまわないならそれでいいが、Ｔシャツも脱いだほうがいい。",
+    "sentence": "といっても (to itte mo): although I say, although one might say"
+  },
+  {
+    "id": 258,
+    "jlpt_level": "N3",
+    "grammar_point": "私たちは夜の間どこかに隠れることを考えなくちゃ。いくら武装してるといっても、結局三人しかいないんだからね。",
+    "sentence": "という (to iu): called, named, as much as"
+  },
+  {
+    "id": 259,
+    "jlpt_level": "N3",
+    "grammar_point": "パイロットという職業で、いちばん好きなのはどんなことですか？",
+    "sentence": "ということだ (to iu koto da): I've heard that, rumour has it that, it means that"
+  },
+  {
+    "id": 260,
+    "jlpt_level": "N3",
+    "grammar_point": "人生におけるわたしの目的は、完全に快適な状態で暮すということだ。",
+    "sentence": "というのは (to iu nowa): means, is, because"
+  },
+  {
+    "id": 261,
+    "jlpt_level": "N3",
+    "grammar_point": "結婚しようと思う誰もが結婚できるというのは、とても大事なことです。",
+    "sentence": "というと/といえば (to iu to/to ieba): speaking of, if it were the case that"
+  },
+  {
+    "id": 262,
+    "jlpt_level": "N3",
+    "grammar_point": "五億円といえば、駅全体を立て直すことができるほどの金額だ。",
+    "sentence": "というより (to iu yori): rather than"
+  },
+  {
+    "id": 263,
+    "jlpt_level": "N3",
+    "grammar_point": "父はこの国と恋に落ちたんです。今や、イングランド人というより、日本人的だと思います、本当のところ。",
+    "sentence": "ところで (tokoro de): by the way"
+  },
+  {
+    "id": 264,
+    "jlpt_level": "N3",
+    "grammar_point": "ところで今日友達とボートを出す計画なんだ。いっしょに行かないか？",
+    "sentence": "ところが (tokoro ga): even so, however, even though"
+  },
+  {
+    "id": 265,
+    "jlpt_level": "N3",
+    "grammar_point": "私は戦いで死ぬことを求めました。ところが私は死なずに生き残り、戦闘は今も続いております。",
+    "sentence": "とおり (toori): in the way, the same as"
+  },
+  {
+    "id": 266,
+    "jlpt_level": "N3",
+    "grammar_point": "ご覧の通りあの馬はかなり高価な馬なんだ。",
+    "sentence": "としたら / とすれば (to shitara / to sureba): if it were the case that, if we assume"
+  },
+  {
+    "id": 267,
+    "jlpt_level": "N3",
+    "grammar_point": "あなたには何の問題もない。もし問題があるとしたら、それは私の方だ。",
+    "sentence": "として (to shite): as (i.e. in the role of)"
+  },
+  {
+    "id": 268,
+    "jlpt_level": "N3",
+    "grammar_point": "Google の検索履歴はファイルとしてダウンロードすることも可能だ。",
+    "sentence": "とは限らない (towa kagiranai): not necessarily so, is not always true"
+  },
+  {
+    "id": 269,
+    "jlpt_level": "N3",
+    "grammar_point": "このような特質がより幸せな、あるいはより質の高い人生をもたらすとは限らない。",
+    "sentence": "ついでに (tsuide ni): while you are at it, on the occasion"
+  },
+  {
+    "id": 270,
+    "jlpt_level": "N3",
+    "grammar_point": "ブログのおかげで人々はテレビに向かって叫ばなくてよくなり、ついでに意見をいう場が持っている。",
+    "sentence": "つまり (tsumari): in other words; that is to say"
+  },
+  {
+    "id": 271,
+    "jlpt_level": "N3",
+    "grammar_point": "それであなたもほんとにそうだと思っておいでなんですか、つまり宇宙人が存在すると？",
+    "sentence": "と共に (to tomo ni): together with"
+  },
+  {
+    "id": 272,
+    "jlpt_level": "N3",
+    "grammar_point": "聞き慣れた鈍いうなりとともに、いつもの冷気が押し寄せてきた。",
+    "sentence": "うちに (uchi ni): while, before, doing"
+  },
+  {
+    "id": 273,
+    "jlpt_level": "N3",
+    "grammar_point": "朝早く出て飛行機で往復すれば、たぶん夜の早いうちに帰ってくることができるだろうと思う。",
+    "sentence": "上で (ue de): after, when, in order to"
+  },
+  {
+    "id": 274,
+    "jlpt_level": "N3",
+    "grammar_point": "政治混沌としている中で、正しい決断、十分に物事をわかったうえでの決断を下すのは、",
+    "sentence": "難しいかもしれませんね。"
+  },
+  {
+    "id": 275,
+    "jlpt_level": "N3",
+    "grammar_point": "わけだ (wake da): for that reason, no wonder, as you'd expect",
+    "sentence": "時計の鐘の残響はすでに消えている。これで正式に遅刻したわけだ。"
+  },
+  {
+    "id": 276,
+    "jlpt_level": "N3",
+    "grammar_point": "わけではない (wake dewa nai): it doesn't mean that, it is not the case",
+    "sentence": "私は彼を憎むわけではない。会いたくないだけだ。"
+  },
+  {
+    "id": 277,
+    "jlpt_level": "N3",
+    "grammar_point": "わけがない (wake ga nai): there is no way that",
+    "sentence": "誰か特定の人物に毒を盛ったという証明はされるわけがないのです。"
+  },
+  {
+    "id": 278,
+    "jlpt_level": "N3",
+    "grammar_point": "わけにはいかない (wake niwa ikanai): must not, can't afford to",
+    "sentence": "その電話をかけたら、もう一緒にはいられない。私は巻き込まれるわけにはいかないの。"
+  },
+  {
+    "id": 279,
+    "jlpt_level": "N3",
+    "grammar_point": "わりに (wari ni): although, rather, unexpectedly",
+    "sentence": "団地の規模の割りに負債が少なく、家賃収入は年間一億円に達している。"
+  },
+  {
+    "id": 280,
+    "jlpt_level": "N3",
+    "grammar_point": "ような気がする (you na ki ga suru): have a feeling that, think that",
+    "sentence": "わたしはこれまでの人生で、いつもなんとか別な人間になろうとしていたような気がする。"
+  },
+  {
+    "id": 281,
+    "jlpt_level": "N3",
+    "grammar_point": "ように (you ni): in order to, so that",
+    "sentence": "皆さん、寒い冬になりました。体調をくずさないように気をつけてください。"
+  },
+  {
+    "id": 282,
+    "jlpt_level": "N3",
+    "grammar_point": "ようとする (you to suru): try to, be about to",
+    "sentence": "私たちが食卓をはなれようとしたとき、誰か戸をたたくものがあった。"
+  },
+  {
+    "id": 283,
+    "jlpt_level": "N3",
+    "grammar_point": "ようとしない (you to shinai): not try to, not make an effort to",
+    "sentence": "あの女は何ごとか知っているんだ。絶対にまちがいない。しかもあの女はいおうとしないんだ。"
+  },
+  {
+    "id": 284,
+    "jlpt_level": "N3",
+    "grammar_point": "ずに (zuni): without doing",
+    "sentence": "彼女は自分の目が信じられずに、三度もくり返し検査をした。"
+  },
+  {
+    "id": 285,
+    "jlpt_level": "N3",
+    "grammar_point": "ずにはいられない (zu niwa irarenai): can't help but feel, can't help but do",
+    "sentence": "それでも私はうれしく思わずにはいられない。ずいぶん長いことこんなにうれしく思ったことはないくらいだ。"
+  }
+]
