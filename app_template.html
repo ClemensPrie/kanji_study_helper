@@ -1,1 +1,118 @@
-test
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=UTF-8>
+<meta name=viewport content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<meta name=theme-color content=#1a1a2e>
+<title>JLPT Grammar Practice</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,Helvetica Neue,sans-serif;background:#0f0f1a;color:#e0e0e0;min-height:100vh;padding-bottom:80px}
+.hdr{background:linear-gradient(135deg,#1a1a2e,#16213e);padding:20px 16px 16px;border-bottom:1px solid #2a2a4a}
+.hdr h1{font-size:22px;font-weight:700;color:#e94560}.hdr p{font-size:13px;color:#8888aa;margin-top:4px}
+.tb{display:flex;background:#1a1a2e;border-bottom:1px solid #2a2a4a;position:sticky;top:0;z-index:10}
+.tb button{flex:1;padding:12px;background:none;border:none;color:#666688;font-size:15px;font-weight:600;cursor:pointer}.tb button.act{color:#e94560;border-bottom:3px solid #e94560}
+.ct{padding:16px;max-width:800px;margin:0 auto}
+.lg{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-bottom:20px}
+.lg button{padding:20px;border-radius:12px;border:2px solid #2a2a4a;background:#1a1a2e;color:#ccc;font-size:20px;font-weight:700;cursor:pointer}
+.lg button.act{border-color:#e94560;background:rgba(233,69,96,0.15);color:#e94560}.lg button small{display:block;font-size:11px;font-weight:400;color:#8888aa;margin-top:4px}
+.gs input{width:100%;padding:10px 14px;border-radius:8px;border:1px solid #2a2a4a;background:#1a1a2e;color:#e0e0e0;font-size:14px;margin-bottom:8px}
+.gs summary{cursor:pointer;color:#e94560;font-weight:600;font-size:14px;padding:8px 0}
+.gc{max-height:300px;overflow-y:auto;border:1px solid #2a2a4a;border-radius:8px}
+.gc label{display:flex;align-items:center;gap:8px;padding:8px 12px;border-bottom:1px solid #1a1a2e;font-size:13px;cursor:pointer}
+.gc input[type=checkbox]{accent-color:#e94560;flex-shrink:0}.cb{padding:2px 6px;border-radius:4px;font-size:11px;background:#2a2a4a;color:#888;margin-left:auto;flex-shrink:0}
+.mt{display:flex;background:#1a1a2e;border-radius:10px;overflow:hidden;border:1px solid #2a2a4a;margin-bottom:16px}
+.mt button{flex:1;padding:10px;border:none;background:#1a1a2e;color:#8888aa;font-size:14px;font-weight:600;cursor:pointer}.mt button.act{background:#e94560;color:#fff}
+.ctrls{display:flex;gap:10px;margin-bottom:20px}
+.ctrls button{padding:12px 24px;border-radius:10px;border:none;font-size:15px;font-weight:600;cursor:pointer;flex:1;min-width:120px}
+.bgen{background:#e94560;color:#fff}.bgen:disabled{background:#553;color:#666}.bclr{background:#2a2a4a;color:#aaa}
+.sr{display:flex;gap:16px;align-items:center;margin-bottom:16px;flex-wrap:wrap}.sr label{font-size:13px;color:#8888aa}.sr select{padding:6px 10px;border-radius:6px;border:1px solid #2a2a4a;background:#1a1a2e;color:#e0e0e0;font-size:13px}
+.rc{background:#1a1a2e;border-radius:12px;border:1px solid #2a2a4a;padding:20px;margin-bottom:20px}
+.rc .m{font-size:11px;color:#666688;margin-bottom:6px}.rc .jp{font-size:20px;line-height:1.6;margin-bottom:8px}
+.rc .en{font-size:14px;color:#aaaacc;line-height:1.5;margin-bottom:12px;padding-bottom:12px;border-bottom:1px solid #2a2a4a}
+.rc .st{font-size:12px;color:#8888aa;font-weight:600;text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;margin-top:12px}
+.rc .vl{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+.rc .vi{background:rgba(255,255,255,0.05);border-radius:6px;padding:6px 10px;font-size:13px}
+.rc .vi .kj{font-weight:600;color:#e0e0e0}.rc .vi .kn{color:#8888aa;font-size:11px;margin-left:4px}.rc .vi .me{color:#aaaacc;font-size:11px;margin-left:4px}
+.rc .gl{display:flex;flex-wrap:wrap;gap:4px}.rc .gi{background:rgba(233,69,96,0.15);color:#e94560;padding:4px 10px;border-radius:4px;font-size:12px;font-weight:600}
+.lod{text-align:center;padding:40px;color:#8888aa}.sp{display:inline-block;width:40px;height:40px;border:3px solid #2a2a4a;border-top-color:#e94560;border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.hi{padding:12px;border-bottom:1px solid #2a2a4a;font-size:13px;cursor:pointer}.hi .hl{font-weight:600;color:#e94560}.hi .hj{color:#ccc;margin:4px 0}.hi .he{color:#8888aa;font-size:12px}
+.es{text-align:center;padding:60px 20px;color:#666688}.es .ic{font-size:48px;margin-bottom:12px}.es h3{font-size:18px;margin-bottom:8px;color:#8888aa}
+::-webkit-scrollbar{width:6px}input[type=password]{caret-color:#e94560}
+</style>
+</head>
+<body>
+<div class=hdr>
+  <h1>JLPT Grammar Practice</h1>
+  <p>Generate sentences with DeepSeek AI</p>
+</div>
+<div class=tb>
+  <button class=act data-t=gen>Generate</button>
+  <button data-t=hist>History</button>
+  <button data-t=set>Settings</button>
+</div>
+<div class=ct id=tab-gen>
+  <div class=lg>
+    <button data-l=N5>N5<small>Beginner</small></button>
+    <button class=act data-l=N4>N4<small>Elementary</small></button>
+    <button data-l=N3>N3<small>Intermediate</small></button>
+  </div>
+  <div class=mt>
+    <button class=act data-md=s>Sentences</button>
+    <button data-md=t>Short Text</button>
+  </div>
+  <details class=gs>
+    <summary>Choose specific grammar (optional)</summary>
+    <input id=gs placeholder=Search><div class=gc id=gc></div>
+  </details>
+  <div class=sr>
+    <label>Count: <select id=cnt><option value=3>3</option><option value=5 selected>5</option><option value=8>8</option><option value=10>10</option></select></label>
+    <label>EN: <input type=checkbox id=trans checked></label>
+    <label>Vocab: <select id=vl><option value=10 selected>10</option><option value=15>15</option><option value=20>20</option></select></label>
+  </div>
+  <div class=ctrls>
+    <button class=bgen id=gen>Generate</button>
+    <button class=bclr id=clr>Clear</button>
+  </div>
+  <div id=res></div>
+</div>
+<div class=ct id=tab-hist style=display:none>
+  <div id=hl><div class=es><div class=ic>&#128203;</div><h3>No history yet</h3></div></div>
+  <button class=bclr id=clh style="width:100%;margin-top:12px;padding:10px;border-radius:8px;border:none;cursor:pointer">Clear History</button>
+</div>
+<div class=ct id=tab-set style=display:none>
+  <h3 style="margin-bottom:16px">Settings</h3>
+  <p>DeepSeek API Key<br><input type=password id=key placeholder="sk-..." style="width:100%;padding:10px;border-radius:8px;border:1px solid #2a2a4a;background:#1a1a2e;color:#e0e0e0;font-size:14px"></p>
+  <p style=margin-top:12px>Model<br><select id=mdl style="width:100%;padding:10px;border-radius:8px;border:1px solid #2a2a4a;background:#1a1a2e;color:#e0e0e0;font-size:14px"><option value=deepseek-chat>deepseek-chat</option></select></p>
+  <p style=margin-top:12px>Temperature: <span id=tv>1.0</span><br><input type=range id=tr min=0.1 max=1.5 step=0.1 value=1.0 style="width:100%;accent-color:#e94560"></p>
+  <button id=svs style="padding:10px 24px;border-radius:8px;border:none;background:#e94560;color:#fff;font-weight:600;cursor:pointer">Save</button>
+</div>
+<script>
+var G={{GRAMMAR_JSON}};
+var V={{VOCAB_JSON}};
+var SK='jga4';
+var S=JSON.parse(localStorage.getItem(SK+'_s')||'{}');
+if(!S.apiKey)S={apiKey:'',model:'deepseek-chat',temperature:1.0};
+var H=JSON.parse(localStorage.getItem(SK+'_h')||'[]');
+var curMode='s';
+function sH(){localStorage.setItem(SK+'_h',JSON.stringify(H.slice(0,200)))}
+function sh(a){for(var i=a.length-1;i>0;i--){var j=Math.random()*(i+1)|0;var t=a[i];a[i]=a[j];a[j]=t}return a}
+function pr(a,n){var s=sh([].concat(a));return s.slice(0,Math.min(n,s.length))}
+function gV(l){var m={N3:['N3','N4','N5'],N4:['N4','N5'],N5:['N5']};var n=m[l]||[];return V.filter(function(v){var t=(v.tags||'').toUpperCase();for(var i=0;i<n.length;i++){if(t.indexOf('JLPT_'+n[i])>-1)return true}return false})}
+function gG(l){return G.filter(function(g){return g.jlpt_level===l})}
+function bP(l,sl,c,tr,mode){var p=sl.length>0?sl:pr(gG(l),c);var v=gV(l);var gd=p.map(function(g){return 'Grammar: '+g.grammar_point+' | Example: '+g.sentence}).join('\n');var vc=parseInt(document.getElementById('vl').value)||10;var sv=pr(v,vc);var vl=sv.map(function(x){return x.expression+' ('+(x.reading||'')+')'}).join(', ');if(mode==='t'){var t='You are a Japanese teacher creating a short text for JLPT '+l+' students.\n\n';t+='Use ALL these grammar points in one coherent text:\n'+gd+'\n\n';t+='Try to use: '+vl+'\n';if(l!=='N5')t+='You can also use N5 vocabulary.\n';t+='\nWrite a short natural Japanese paragraph using all grammar points.\n';t+='Then list ALL kanji compounds with hiragana and English meaning. Then list grammar used.\n';t+='Respond JSON: {"text":"Japanese paragraph","translation":"English","vocab":[{"word":"学校","reading":"がっこう","meaning":"school"}],"grammars":["point1","point2"]}';return t}else{var t='You are a Japanese teacher creating sentences for JLPT '+l+'.\n\n';t+='Use these grammar points (examples show style):\n'+gd+'\n\n';t+='Try to use: '+vl+'\n';if(l!=='N5')t+='You can also use N5 vocabulary.\n';t+='\nCreate '+c+' natural Japanese sentences. Each uses one grammar point.\n';t+='For each, list kanji vocab with hiragana and English.\n';t+='Respond JSON array: [{"sentence":"...","translation":"...","grammar":"name","vocab":[{"word":"学校","reading":"がっこう","meaning":"school"}]}]';return t}}
+async function cA(p){var k=S.apiKey;if(!k||k==='sk-...')throw new Error('Set API key in Settings');var r=await fetch('https://api.deepseek.com/v1/chat/completions',{method:'POST',headers:{'Content-Type':'application/json','Authorization':'Bearer '+k},body:JSON.stringify({model:S.model||'deepseek-chat',messages:[{role:'system',content:'You are a Japanese teacher. Respond valid JSON only.'},{role:'user',content:p}],temperature:S.temperature||1.0,max_tokens:3072})});if(!r.ok){var e=await r.text();throw new Error('Error '+r.status+': '+e)}var d=await r.json();var c=d.choices[0].message.content;if(!c)throw new Error('Empty');try{var m=c.match(/\[[\s\S]*\]/);if(m)return JSON.parse(m[0]);var o=c.match(/\{[\s\S]*\}/);if(o)return JSON.parse(o[0]);return JSON.parse(c)}catch(e){throw new Error('Parse error: '+c.substring(0,80))}}
+function rS(r){var c=document.getElementById('res');c.innerHTML='';if(r.text){var h='<div class=rc><div class=m>Generated Text</div><div class=jp>'+r.text+'</div><div class=en>'+r.translation+'</div>';if(r.vocab&&r.vocab.length){h+='<div class=st>Kanji Vocabulary</div><div class=vl>';r.vocab.forEach(function(v){h+='<span class=vi><span class=kj>'+v.word+'</span><span class=kn>'+v.reading+'</span><span class=me>'+v.meaning+'</span></span>'});h+='</div>'}if(r.grammars&&r.grammars.length){h+='<div class=st>Grammar Used</div><div class=gl>';r.grammars.forEach(function(g){h+='<span class=gi>'+g+'</span>'});h+='</div>'}h+='</div>';c.innerHTML=h}else if(Array.isArray(r)){r.forEach(function(x,i){var h='<div class=rc><div class=m>#'+(i+1)+'</div><div class=jp>'+x.sentence+'</div><div class=en>'+x.translation+'</div>';if(x.vocab&&x.vocab.length){h+='<div class=st>Kanji</div><div class=vl>';x.vocab.forEach(function(v){h+='<span class=vi><span class=kj>'+v.word+'</span><span class=kn>'+v.reading+'</span><span class=me>'+v.meaning+'</span></span>'});h+='</div>'}if(x.grammar){var a=Array.isArray(x.grammar)?x.grammar:[x.grammar];h+='<div class=st>Grammar</div><div class=gl>';a.forEach(function(g){h+='<span class=gi>'+g+'</span>'});h+='</div>'}h+='</div>';c.innerHTML+=h})}}
+async function gen(){var b=document.getElementById('gen');var al=document.querySelector('.lg .act');if(!al)return;var l=al.getAttribute('data-l');var ck=document.querySelectorAll('#gc input:checked');var sl=[];ck.forEach(function(c){var f=G.find(function(g){return g.id===parseInt(c.value)});if(f)sl.push(f)});var c=parseInt(document.getElementById('cnt').value);var tr=document.getElementById('trans').checked;var md=curMode;b.disabled=true;b.textContent='...';document.getElementById('res').innerHTML='<div class=lod><div class=sp></div><p>Generating...</p></div>';try{var p=bP(l,sl,c,tr,md);var r=await cA(p);rS(r);var hr=md==='t'?[{sentence:r.text||'',translation:r.translation||'',grammar:(r.grammars||[]).join(', '),vocab:r.vocab||[]}]:(Array.isArray(r)?r.slice(0,10):[r]);H.push({timestamp:new Date().toISOString(),level:l,mode:md,count:md==='t'?1:r.length,grammarCount:sl.length||'random',results:hr});sH()}catch(e){document.getElementById('res').innerHTML='<div class=rc style=border-color:#e94560><div class=m>Error</div><div style=color:#e94560>'+e.message+'</div></div>'}finally{b.disabled=false;b.textContent='Generate'}}
+function bGC(l){var c=document.getElementById('gc');c.innerHTML=gG(l).map(function(g){return '<label><input type=checkbox value='+g.id+'><span>'+g.grammar_point+'</span><span class=cb>'+g.sentence.length+'</span></label>'}).join('')}
+document.querySelectorAll('.tb button').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.tb button').forEach(function(x){x.classList.remove('act')});b.classList.add('act');var t=b.getAttribute('data-t');document.querySelectorAll('.ct').forEach(function(c){c.style.display='none'});document.getElementById('tab-'+t).style.display='block';if(t==='hist')rH();if(t==='set')lSU()})});
+document.querySelectorAll('.lg button').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.lg button').forEach(function(x){x.classList.remove('act')});b.classList.add('act');bGC(b.getAttribute('data-l'))})});
+document.querySelectorAll('.mt button').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.mt button').forEach(function(x){x.classList.remove('act')});b.classList.add('act');curMode=b.getAttribute('data-md')})});
+document.getElementById('gs').addEventListener('input',function(e){var q=e.target.value.toLowerCase();document.querySelectorAll('#gc label').forEach(function(l){l.style.display=l.querySelector('span').textContent.toLowerCase().indexOf(q)>-1?'flex':'none'})});
+function rH(){var c=document.getElementById('hl');if(!H.length){c.innerHTML='<div class=es><div class=ic>&#128203;</div><h3>No history yet</h3></div>';return}c.innerHTML=H.slice().reverse().map(function(h,i){var ml=h.mode==='t'?'text':h.count+' sentences';return '<div class=hi onclick=vH('+(H.length-1-i)+')><span class=hl>'+h.level+'</span> '+ml+' '+(h.grammarCount==='random'?'(random)':'('+h.grammarCount+' specific)')+'<div class=hj>'+(h.results[0]?.sentence?.substring(0,50)||'...')+'</div><div class=he>'+new Date(h.timestamp).toLocaleString()+'</div></div>'}).join('')}
+function vH(i){var h=H[i];if(!h)return;document.querySelector('[data-t=gen]').click();if(h.results.length===1&&h.results[0].sentence&&h.mode==='t'){rS({text:h.results[0].sentence,translation:h.results[0].translation,grammars:(h.results[0].grammar||'').split(', '),vocab:h.results[0].vocab||[]})}else{rS(h.results)}document.querySelectorAll('.lg button').forEach(function(b){b.classList.remove('act')});var lb=document.querySelector('.lg button[data-l="'+h.level+'"]');if(lb)lb.classList.add('act')}
+document.getElementById('clh').addEventListener('click',function(){if(confirm('Clear?')){H=[];sH();rH()}});document.getElementById('gen').addEventListener('click',gen);document.getElementById('clr').addEventListener('click',function(){document.getElementById('res').innerHTML=''});function lSU(){document.getElementById('key').value=S.apiKey||'';document.getElementById('mdl').value=S.model||'deepseek-chat';document.getElementById('tr').value=S.temperature||1.0;document.getElementById('tv').textContent=S.temperature||1.0}document.getElementById('tr').addEventListener('input',function(e){document.getElementById('tv').textContent=e.target.value});document.getElementById('svs').addEventListener('click',function(){S.apiKey=document.getElementById('key').value.trim();S.model=document.getElementById('mdl').value;S.temperature=parseFloat(document.getElementById('tr').value);localStorage.setItem(SK+'_s',JSON.stringify(S));alert('Saved!')});bGC('N4');lSU();
+</script>
+</body>
+</html>
