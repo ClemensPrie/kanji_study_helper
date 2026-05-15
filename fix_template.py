@@ -84,5 +84,13 @@ if 'serviceWorker' not in content:
 else:
     print("[6] SW registration already present")
 
+# --- Fix 7: Increase max_tokens from 3072 to 8192 ---
+# 3072 is too small when asking for ALL kanji vocab — response gets truncated
+if 'max_tokens:3072' in content:
+    content = content.replace('max_tokens:3072', 'max_tokens:8192')
+    print("[7] Increased max_tokens from 3072 to 8192")
+else:
+    print("[7] max_tokens already changed or not found")
+
 p.write_text(content, encoding="utf-8")
 print("\nDone. Now run build_app.py to regenerate index.html.")
