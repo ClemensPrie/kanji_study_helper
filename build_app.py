@@ -66,7 +66,12 @@ tj = json.dumps(tdata, ensure_ascii=False)
 
 # Read the template HTML and substitute placeholders
 template = (DIR / "app_template.html").read_text(encoding="utf-8")
-html = template.replace("{{GRAMMAR_JSON}}", gj).replace("{{VOCAB_JSON}}", vj).replace("{{TOPICS_JSON}}", tj)
+html = (
+    template
+    .replace('"__GRAMMAR_JSON__"', gj)
+    .replace('"__VOCAB_JSON__"', vj)
+    .replace('"__TOPICS_JSON__"', tj)
+)
 
 (DIR / "index.html").write_text(html, encoding="utf-8")
 
